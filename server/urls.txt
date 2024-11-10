@@ -1,0 +1,17 @@
+http://localhost:5174/
+chrome://newtab/
+https://www.fancode.com/
+chrome://newtab/
+https://www.linkedin.com/feed/
+chrome://newtab/
+https://www.notion.so/0ebdab77a99d40b99bbd84823fad3b6f?cookie_sync_completed=true
+https://www.notion.so/0ebdab77a99d40b99bbd84823fad3b6f?pvs=46&qid=
+https://www.notion.so/0ebdab77a99d40b99bbd84823fad3b6f
+chrome://newtab/
+https://www.google.com/search?q=svg+image+to+svg+code&rlz=1C1JJTC_enIN1097IN1097&oq=svg+image&gs_lcrp=EgZjaHJvbWUqBwgDEAAYgAQyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDY5NjFqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=svg&sca_esv=306df196934c4ef8&rlz=1C1JJTC_enIN1097IN1097&sxsrf=ADLYWILjRWPfmDmP2DKuF_Jiji_Dq0AKaA%3A1731250885684&ei=xcowZ9i5Ka-eseMP2670mQs&ved=0ahUKEwiYsLuQhNKJAxUvT2wGHVsXPbMQ4dUDCA8&uact=5&oq=svg&gs_lp=Egxnd3Mtd2l6LXNlcnAiA3N2ZzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBUimBlCEBFj7BHABeAGQAQCYAaEBoAGhAaoBAzAuMbgBA8gBAPgBAZgCAaACBZgDAIgGAZAGCpIHATGgB4oF&sclient=gws-wiz-serp
+https://www.svgrepo.com/
+https://www.svgrepo.com/vectors/time/
+https://www.svgrepo.com/svg/530159/time
+https://www.svgrepo.com/svg/530159/time?edit=true
+https://www.svgrepo.com/svg/530159/time
